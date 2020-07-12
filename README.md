@@ -21,8 +21,9 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 
-### What I'm up to
+### About Me
 - 🛠️ Currently solo developing indie games
+### Social icons that you can click on... eventually!
 - ✉️ Feel free to reach me at krecoding@gmail.com 
 ---
 
