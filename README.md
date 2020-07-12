@@ -2,8 +2,8 @@
               ,---------------------------,
               |  /---------------------\  |
               | |                       | |            
-              | |     Hello, World!     | |
-              | |      I'm Kevin 👋     | |
+              | |     Designer 🎨       | |
+              | |     Developer 👨‍💻      | |
               | |                       | |
               | |                       | |  ASCII Art placeholder while I think
               |  \_____________________/  |  up a GIF to design and place here
@@ -21,8 +21,9 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 
-- 🛠️ I'm currently solo developing indie games
-- ✉️ Feel free to reach me at krecoding@gmail.com
-
+### What I'm up to
+- 🛠️ Currently solo developing indie games
+- ✉️ Feel free to reach me at krecoding@gmail.com 
+---
 
 <!-- **kre64/kre64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
