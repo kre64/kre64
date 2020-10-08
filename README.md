@@ -24,7 +24,7 @@
 ### About Me
 - 🛠️ Currently solo developing indie games
 ### Social icons that you can click on... eventually!
-- ✉️ Feel free to reach me at krecoding@gmail.com 
+- ✉️ Feel free to reach me at hello@krecoding.com 
 ---
 
 <!-- **kre64/kre64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
