@@ -2,7 +2,7 @@
 
 I'm Kevin, a Full-stack developer / designer from NYC.
 
-## ⚡ Skills and Technologies
+## ❤️ Some of my favorite tech to work with
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
