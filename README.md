@@ -1,8 +1,8 @@
-### Hi there!  
+### Hi there 👋  
 
 I'm Kevin, a Full-stack developer / designer from NYC.
 
-## ⚡ Technologies
+## ⚡ Skills and Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -23,9 +23,9 @@ I'm Kevin, a Full-stack developer / designer from NYC.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## What I'm up to
+## 🎯 What I'm up to
 - 🛠️ Currently solo developing indie games
-## How to reach me
+## 😄 How to reach me
 - ✉️ hello@krecoding.com 
 ---
 
