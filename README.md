@@ -1,7 +1,8 @@
 ### What's up nerds?
 
-I love to code, so much so that I ended up doing it as a full time job. Whenver I'm not coding I fiddle about with game design, music, and art. Current obsession is with React and Next.js
+I love to code, so much so that I ended up doing it as a full time job. Current obsession is with Next.js and React. Whenver I'm not coding I fiddle about with game design, music, and art.
 
+🏠 www.krecoding.com  
 ✉️ hello@krecoding.com 
 ---
 
