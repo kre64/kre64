@@ -1,6 +1,6 @@
 ### Hello, World!
 
-I love to code, so much so that I ended up doing it as a full time job. Current obsession is with StyledComponents
+I love to code, so much so that I ended up doing it as a full time job. Current obsession is with WebSockets and making multiplayer games.
 
 -  🏠 [krecoding.com](https://www.krecoding.com "Portfolio of Kevin Espinola")
 -  ✉️ hello@krecoding.com 
